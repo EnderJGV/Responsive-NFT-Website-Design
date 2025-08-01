@@ -32,4 +32,4 @@ Um site responsivo de NFTs desenvolvido com HTML, CSS e JavaScript. O projeto co
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/responsive-nft-website-design.git
+   git clone https://github.com/EnderJGV/Responsive-NFT-Website-Design.git
