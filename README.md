@@ -31,7 +31,5 @@ Um site responsivo de NFTs desenvolvido com HTML, CSS e JavaScript. O projeto co
 ## 🚀 Como Rodar Localmente
 
 1. **Clone o repositório:**
-       ```bash
-   git clone https://github.com/seu-usuario/responsive-nft-website-design.git
    ```bash
    git clone https://github.com/seu-usuario/responsive-nft-website-design.git
