@@ -9,4 +9,4 @@
 
 ![preview img](/preview.png)
 
-[Link do Site](https://responsive-nft-website-design.enderguaina.repl.co/)
+[Link do Site](https://responsive-nft-website-design.vercel.app/)
